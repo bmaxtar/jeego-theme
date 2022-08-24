@@ -34,7 +34,7 @@ function jeego_sidebars()
 {
   register_sidebar(
     array(
-      'name' => 'Home Page Sidebar',
+      'name' => 'Home Sidebar',
       'id' => 'sidebar-001',
       'description' => "Ceci est le Sidebar de la page d'accueil",
       'before_widget' => '<div class="widget-wrapper">',
